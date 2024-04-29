@@ -9,11 +9,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e5476f-d0c3-4005-a1af-4df5fa245561" name="Changes" comment="" />
+    <list default="true" id="55e5476f-d0c3-4005-a1af-4df5fa245561" name="Changes" comment="Sign up app UI only" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
@@ -142,6 +147,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714199924007</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sign up app UI only">
+      <option name="closed" value="true" />
+      <created>1714403965346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714403965346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sign up app UI only" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sign up app UI only" />
   </component>
 </project>
