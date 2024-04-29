@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Composable Function</string>
+    <string name="first_Header">Text composable</string>
+    <string name="first_Paragraph">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="second_Header">Image composable</string>
+    <string name="second_Para">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="Third_Header">Row composable</string>
+    <string name="Third_para">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="fourth_Header">Column composable</string>
+    <string name="fourth_para">A layout composable that places its children in a vertical sequence.</string>
+
+</resources>
